@@ -33,4 +33,5 @@
 
 ### 近期課程錄影清單
 
+- [304 期假日專題班](https://www.youtube.com/playlist?list=PLEq7iw5uOtuXT0rgocwkvrEM3r6SoaGbH)
 - [298 期假日專題班](https://www.youtube.com/playlist?list=PLEq7iw5uOtuUvL7tI_hPwHMov2OygFwvN)
