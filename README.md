@@ -6,6 +6,7 @@
 
 ### 課程共筆
 
+- [305 期假日專題班](https://colab.research.google.com/drive/1K_eUWpB-OXi_AzydbeqbW_lxT_2aGd1Q)
 - [304 期假日專題班](https://colab.research.google.com/drive/1rRujm-jfbnIb28HT5iiM4AO-NBNwBabJ)
 - [298 期假日專題班](https://colab.research.google.com/drive/1Uq3FV0ayZTKbWjThr73Oc3IOaVBa_Kld)
 
