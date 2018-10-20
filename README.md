@@ -11,7 +11,9 @@
 
 ### 評分標準
 
-- 70 分即可獲得證書，作業請寄至 tony@kyosei.ai，註明班別與姓名
+[作業上傳表單](https://goo.gl/forms/otI0IEk2x8Eliaf02)
+
+- 70 分即可獲得證書
 - 作業繳交期限為課程結束後一週內，如遇長假期（春節、連假）則順延
 - 作業
     - 完成 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) 並上傳（100）
